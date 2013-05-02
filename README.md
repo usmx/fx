@@ -1,0 +1,9 @@
+fx
+==
+
+The FX (unnamed, but might be named it) pasting network for all types of writing
+
+Note: YOU MAY NOT USE THE CONTENTS OF THE FILES POSTED HERE 
+      UNLESS AUTHORIZED BY KAI AND THE CREATOR OF FX.
+      IDEAS FROM THIS ARE COPYRIGHTED. NOTE THAT THIS IS 
+      STILL IN BETA MODE SO EXPECT A FEW BUGS.
